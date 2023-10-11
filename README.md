@@ -1,4 +1,4 @@
 # onemap-sg
-Exploring onemap API with other datasets
+Exploring [onemap API][onemapapi] with other datasets
 
-
+[onemapapi]: https://www.onemap.gov.sg/apidocs/apidocs
